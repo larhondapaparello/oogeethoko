@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxiefaeta.vpetkov.com/sitemap.xml
